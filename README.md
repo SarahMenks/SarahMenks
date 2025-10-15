@@ -4,7 +4,6 @@
 
 🎓 I'm an **Information Systems** student at **UFMG!**  
 🔬 Currenly working at VerLab, focusing on 3D computer vision and deep learning
-💭 I'm curious about how systems, data, and AI can be used to solve real-world problems
 
 ---
   
