@@ -29,7 +29,7 @@
 
 ---
 
-### 🌐 Onde me encontrar
+### 🌐 Connect with me
 
 **LinkedIn:** [linkedin.com/in/sarahmenks](https://linkedin.com/in/sarahmenks)  
 **GitHub:** [github.com/sarahmenks](https://github.com/sarahmenks)
